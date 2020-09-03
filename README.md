@@ -1,8 +1,5 @@
 ### Hello my name is Tomomi. Nice to meet you! 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... Freelance Websites
 - 🌱 I’m currently learning ... Javascript
 - 🤔 I’m looking for help with ... Javascript!
