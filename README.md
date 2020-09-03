@@ -10,4 +10,4 @@
 - 📫 How to reach me: ... Checkout out my portfolio: https://tomii.design/ email me: tomomi@tomii.design
 
 - ⚡ Fun fact: ... I LOVE Japanese Gyoza!
--->
+
